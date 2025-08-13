@@ -54,8 +54,7 @@ specialities:
 
 ## 💡 Fun Fact
 
-When I deploy to production for BBC iPlayer during a live event,  
-my AWS dashboards look like they’re running a retro arcade game. 🎮
+I've deployed features for millions of BBC iPlayer viewers, but my cat still walks across the keyboard mid-deployment. 🐈💻
 
 ---
 
