@@ -66,4 +66,4 @@ I've deployed features for millions of BBC iPlayer viewers, but my cat still wal
 ---
 
 ![Repeat](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)  
-**“Code. Deploy. Test. Repeat.”**
+**“Code. Test. Deploy. Repeat.”**
